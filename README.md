@@ -1,2 +1,2 @@
-# python-amistad_matematica
+# python
 programas en python para el curso de programación
